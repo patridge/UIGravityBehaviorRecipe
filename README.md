@@ -33,4 +33,4 @@ Then, play around with changing gravity in `ChangingGravityViewController`.
         gravity.GravityDirection = new CGVector(0, 1);
     }) { Direction = UISwipeGestureRecognizerDirection.Down, });
 
-![Controlling UIGravityBehavior by swipe](https://raw.github.com/patridge/UIGravityBehaviorRecipe/master/Screenshots/ControllingUIGravityBehavior.gif)
+![Controlling UIGravityBehavior by swipe](https://raw.github.com/patridge/UIGravityBehaviorRecipe/master/Screenshots/ChangingUIGravityBehavior.gif)
