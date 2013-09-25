@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIGravityBehaviorRecipe", "UIGravityBehaviorRecipe\UIGravityBehaviorRecipe.csproj", "{A932D474-CD0C-4063-BD52-53015070C12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Release|iPhone.Build.0 = Release|iPhone
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A932D474-CD0C-4063-BD52-53015070C12D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = UIGravityBehaviorRecipe\UIGravityBehaviorRecipe.csproj
+	EndGlobalSection
+EndGlobal
