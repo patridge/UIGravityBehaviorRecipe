@@ -1,6 +1,6 @@
 #Xamarin.iOS UIGravityBehavior Recipe
 
-[See my blog for a full [write-up of this UIGravityBehavior recipe](http://pdev.co/1gYRs1W).
+[See my blog for a [full write-up of this Xamarin UIGravityBehavior recipe](http://pdev.co/1gYRs1W).]
 
 Playing with the new UIKit Dynamics `UIGravityBehavior`. Get a feel for the basic application of gravity with `BasicGravityViewController`.
 
