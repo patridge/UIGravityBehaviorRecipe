@@ -14,7 +14,6 @@ namespace UIKitPlayground.UIGravityBehaviorRecipe {
             UIApplication.SharedApplication.SetStatusBarHidden(true, UIStatusBarAnimation.Slide);
             window = new UIWindow(UIScreen.MainScreen.Bounds);
 
-            //viewController = new BasicGravityViewController();
             viewController = new ChangingGravityViewController();
             window.RootViewController = viewController;
             window.MakeKeyAndVisible();
