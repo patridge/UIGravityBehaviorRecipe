@@ -1,4 +1,4 @@
-#Xamarin.iOS UIGravityBehavior Recipe
+# Xamarin.iOS UIGravityBehavior Recipe
 
 [See my blog for a [full write-up of this Xamarin UIGravityBehavior recipe](http://pdev.co/1gYRs1W).]
 
@@ -18,7 +18,7 @@ Playing with the new UIKit Dynamics `UIGravityBehavior`. Get a feel for the basi
         animator.AddBehavior(gravity);
     }
 
-![Basic UIGravityBehavior](https://raw.github.com/patridge/UIGravityBehaviorRecipe/master/Screenshots/BasicUIGravityBehavior.gif)
+![Basic UIGravityBehavior](/Screenshots/BasicUIGravityBehavior.gif)
 
 Then, play around with changing gravity in `ChangingGravityViewController`.
 
@@ -35,4 +35,4 @@ Then, play around with changing gravity in `ChangingGravityViewController`.
         gravity.GravityDirection = new CGVector(0, 1);
     }) { Direction = UISwipeGestureRecognizerDirection.Down, });
 
-![Controlling UIGravityBehavior by swipe](https://raw.github.com/patridge/UIGravityBehaviorRecipe/master/Screenshots/ChangingUIGravityBehavior.gif)
+![Controlling UIGravityBehavior by swipe](/Screenshots/ChangingUIGravityBehavior.gif)
